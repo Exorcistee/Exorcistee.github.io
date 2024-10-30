@@ -19,9 +19,12 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build Hugo site
+      env:
+          HUGO_BASEURL: "https://exorcistee.github.io/resume/"  # Установите базовый URL для GitHub Pages
         run: |
-          hugo --minify
-          touch public/.nojekyll
+          hugo --minify --baseURL $HUGO_BASEURL
+          touch public/.nojekyll  
+
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
