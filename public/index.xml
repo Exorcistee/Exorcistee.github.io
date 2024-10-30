@@ -2,36 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Резюме</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Резюме</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 30 Oct 2024 17:23:33 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Wed, 30 Oct 2024 17:23:33 +0300</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;h1 id=&#34;уразаев-константин-викторович&#34;&gt;Уразаев Константин Викторович&lt;/h1&gt;
-&lt;p&gt;20 лет&lt;/p&gt;
-&lt;h2 id=&#34;программист-1с&#34;&gt;Программист 1С&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Специализации:&lt;/strong&gt;&lt;br&gt;
-— Программист, разработчик &lt;!-- raw HTML omitted --&gt;
-Занятость: полная занятость, частичная занятость, проектная работа&lt;br&gt;
-График работы: полный день, гибкий график, удаленная работа&lt;br&gt;
-Желательное время в пути до работы: не имеет значения&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Опыт работы — 1 год 2 месяца&lt;/strong&gt;&lt;br&gt;
-Апрель 2024 — настоящее время&lt;br&gt;
-6 месяцев &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ИП Золотова Людмила Аркадьевна&lt;/strong&gt;&lt;br&gt;
-Программист 1С&lt;br&gt;
--Доработка конфигураций под нужны компании.&lt;br&gt;
--Создание отчётов и обработок.&lt;br&gt;
--Автоматизация бизнес-процессов компании.&lt;br&gt;
--Тестирование нового функционала.&lt;br&gt;
--Консультация сотрудников компании по работе в 1С:УНФ, 1C:БП, 1С:ЗУП.&lt;br&gt;
--Разработка интеграций с внешними системами.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
