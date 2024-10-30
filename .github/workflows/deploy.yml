@@ -20,7 +20,7 @@ jobs:
 
       - name: Build Hugo site
       env:
-          HUGO_BASEURL: "https://exorcistee.github.io/resume/"  # Установите базовый URL для GitHub Pages
+          HUGO_BASEURL: "https://exorcistee.github.io/resume/"
         run: |
           hugo --minify --baseURL $HUGO_BASEURL
           touch public/.nojekyll  
